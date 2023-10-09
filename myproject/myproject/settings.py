@@ -49,6 +49,8 @@ INSTALLED_APPS = [
     "rest_auth.registration",
     #앱
     "myapp",
+    #swagger
+    "drf_yasg",
 ]
 
 MIDDLEWARE = [
